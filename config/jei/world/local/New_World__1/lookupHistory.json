@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"simulated:redstone_magnet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:honey_glue"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

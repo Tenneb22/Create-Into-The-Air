@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_new_age:thorium"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createaddition:alternator"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

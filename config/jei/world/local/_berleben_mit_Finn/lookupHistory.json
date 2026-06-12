@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create:depot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:andesite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:flint"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_new_age:magnetite_block"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

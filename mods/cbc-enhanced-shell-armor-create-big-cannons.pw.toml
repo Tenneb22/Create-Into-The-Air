@@ -1,0 +1,13 @@
+name = "CBC:Enhanced Shell Armor [Create Big Cannons]"
+filename = "cannoncompressedarmor-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1e7d18a27926bcfe44f1c9e99518e5dc70e9f5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8227511
+project-id = 1548357

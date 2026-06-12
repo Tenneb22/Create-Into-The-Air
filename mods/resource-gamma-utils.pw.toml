@@ -1,0 +1,13 @@
+name = "Resource Gamma Util / Fullbright"
+filename = "resource_gamma_util-neoforge-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b714160b35e06cdaf6960a5f8ed3580e4b24dcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7345174
+project-id = 1202313

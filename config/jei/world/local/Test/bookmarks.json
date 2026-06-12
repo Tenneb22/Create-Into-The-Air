@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"createbigcannons:autocannon_cartridge","components":{"createbigcannons:projectile":[{"slot":0,"item":{"id":"cbc_at:apdsfs_item","count":1}}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cbc_enhanced_shells:powder_charge_mk5"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
