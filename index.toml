@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/createbigcannons-client.toml"
-hash = "f834e54b861415760dac09b3de1668b68e2ada48970f6903337708aeef07ea46"
+hash = "ef09562094a1588daf5d9b3ce90d6eb959fb1fc163fdcb4e6b867ea7f6fbb1fe"
 
 [[files]]
 file = "config/createbigcannons-server.toml"
@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/cannoncompressedarmor-1.0.0.jar"
-hash = "6136957183d4508ed1e06ac9a30ed01e5fd7aaa99df6828871265de2906b37e8"
+hash = "592c1abc4034f185411e1b02672a08dbb3d1919ca286ba3afe1e2812c4e0e766"
 
 [[files]]
 file = "mods/carry-on.pw.toml"
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "2ce71d9401842fdaf67f5ee5fa85e951c2a8d6a68347d47ee7a1082683e08fb0"
+hash = "9910d1ab98773e289031adb7e8db9e52c2209ba605c0c86729b1eb2a3dfc6396"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
-hash = "3de08682f1efe89c598c7145469d53d114714ea157104d0cc56a56b2e7b54160"
+hash = "21f7fcb2a53ab639317451693bb9d6d8e7a3d574923bee8b35098e9f2783d29e"
 metafile = true
 
 [[files]]

@@ -55,7 +55,7 @@
 		# Range: 0 ~ 4
 		anglePrecision = 2
 		#.
-		#If true, the yaw angle on goggles ranges from +180 to -180º. If false, it ranges from 0 to +360º.
+		#If true, the yaw angle on goggles ranges from +180 to -180Âº. If false, it ranges from 0 to +360Âº.
 		use180_180RangeForYaw = false
 
 	#.
