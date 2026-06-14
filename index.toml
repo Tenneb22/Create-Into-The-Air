@@ -1357,7 +1357,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "8b43461e82a686c82fb8ea88710da4c174fdf59815dc4538d9b316b8777899da"
+hash = "35f89136e9bed113613f23c93762ee08c6a9148fca951aabfe2cccb930a993c9"
 metafile = true
 
 [[files]]
@@ -1367,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
+hash = "27ba9439d6b25314cfca911c474a9a34933dc7a25b4ee42ae3f2782f8d03b676"
 metafile = true
 
 [[files]]
@@ -1457,7 +1457,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
 metafile = true
 
 [[files]]
@@ -1467,7 +1467,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
@@ -1482,7 +1482,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "ec9d06ac76e4017bbfbae4ecd54702071b796b502ac8eabb682705ef71c8d671"
+hash = "9b1f56d25eee1666fea9dfff6e36ab7efce49469c2a2c491343f2dd6685aaed6"
 metafile = true
 
 [[files]]
@@ -1507,7 +1507,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+hash = "18acfb6f1a54fea702fee947029a260ff6ac865aad5fc64a3ed6193eabac830a"
 metafile = true
 
 [[files]]
@@ -1542,17 +1542,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "1600eda44f49ff0eebdacd09f4dac319c4b267940989b7d3deeee28cb6734a62"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c4e7c440361d287463f474cef7018142d2e275ea1bc4933bc325715c50a2750f"
+hash = "7fa632305f68040183187dcbfc110ba522a16c6b5ec1ff5bf7d4ea28aea2671c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "56f3e711fdc49b5245576f608a5bcc94b83963ace5f6b66b6c2903cc20639963"
+hash = "c74722a24f953b3aaa54e7337452ace40519349c036970e5338eb3c522b347ad"
 metafile = true
 
 [[files]]
