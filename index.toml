@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/cannoncompressedarmor-1.0.0.jar"
-hash = "592c1abc4034f185411e1b02672a08dbb3d1919ca286ba3afe1e2812c4e0e766"
+hash = "6136957183d4508ed1e06ac9a30ed01e5fd7aaa99df6828871265de2906b37e8"
 
 [[files]]
 file = "mods/carry-on.pw.toml"
