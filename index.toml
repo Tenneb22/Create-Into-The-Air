@@ -78,6 +78,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "31411fced67d5b743f6cd1ce2be55e4bce428de8df2fe38c6a39097099da5e4f"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
 hash = "14a661c7ccb290a48b14ed189ff5728cc50d7dd1606368e979464aff1faa9e5b"
 metafile = true
@@ -288,6 +293,11 @@ hash = "07c1d1a846572a60bf88dc54977d9a65d20f74c19209cb82e8d7dfe0d3cdfadf"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "64bb9f1e36366e9f3fd617b765b5708a7aeb30d33b4ab04cd5f1361f9acc1c85"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -356,6 +366,10 @@ metafile = true
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "21f7fcb2a53ab639317451693bb9d6d8e7a3d574923bee8b35098e9f2783d29e"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "aa0bf73031881b14e52633b07415412aaf92752e8eb21f45f30240c57de43a1a"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
