@@ -3,11 +3,11 @@ filename = "Neoforge-Aeronautics-Calibrated-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "60629abb8d37b20eb008b6d08a6924846a4fc3f3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8kRLmPpH/versions/eqdMI55E/Neoforge-Aeronautics-Calibrated-1.2.2.jar"
+hash-format = "sha512"
+hash = "d92bce574aadb5b16f36e7ddb4238507cbf7115bfe5147727bfea6fd38194ffcee4a8fcd7e868db7df18b39fad4143a5113df01333c2c105fe6519a6e270e8be"
 
 [update]
-[update.curseforge]
-file-id = 8115299
-project-id = 1532869
+[update.modrinth]
+mod-id = "8kRLmPpH"
+version = "eqdMI55E"

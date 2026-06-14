@@ -1222,13 +1222,18 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-addition.pw.toml"
 hash = "edfcfe70fc5469c9d559e9e47804c8287f5a9290c20349435b2ee66a57f88008"
 metafile = true
 
 [[files]]
 file = "mods/aeronautics-calibrated.pw.toml"
-hash = "fbc0f89b3db4f0f52036e97151da1e1ccf710b0331adfc59752e27981914b2c0"
+hash = "6319c14a99ba6e5d1a103a48ae6ce8255db6d074188bc35b084721832d848c76"
 metafile = true
 
 [[files]]
@@ -1252,6 +1257,10 @@ hash = "726334adfd226c815c78ecf79169a0db3c5079efbb9671d8051bfc559c8b4359"
 metafile = true
 
 [[files]]
+file = "mods/cannoncompressedarmor-1.0.0.jar"
+hash = "6136957183d4508ed1e06ac9a30ed01e5fd7aaa99df6828871265de2906b37e8"
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
 metafile = true
@@ -1259,11 +1268,6 @@ metafile = true
 [[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
 hash = "eae74034be003c52c955e62c727a95ab5302ab8ed5ca12d6a846f800ae2c93f0"
-metafile = true
-
-[[files]]
-file = "mods/cbc-enhanced-shell-armor-create-big-cannons.pw.toml"
-hash = "439c10ee7051485c77d9d171f25033a00a6a479e4eb95cd1ccebdb85faee903d"
 metafile = true
 
 [[files]]
@@ -1298,12 +1302,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-gyroscope-stabilizers.pw.toml"
-hash = "516e15291b98bc41be9da35ed4108baf0b20defe424b12e36904c6a184c6769c"
+hash = "845db39ab8c05bcd2f047d7bd810ea0d27f027ebbaf7f8db872126e8bc89ee2d"
 metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
@@ -1338,7 +1342,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
@@ -1398,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1518,7 +1522,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+hash = "07c1d1a846572a60bf88dc54977d9a65d20f74c19209cb82e8d7dfe0d3cdfadf"
 metafile = true
 
 [[files]]
@@ -1529,11 +1533,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
 metafile = true
 
 [[files]]
@@ -1598,7 +1597,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
-hash = "c78e5aadda0f2be8481cefeaa7fc27fce87c34097dbfd29aa715fef2b1f55ba4"
+hash = "3de08682f1efe89c598c7145469d53d114714ea157104d0cc56a56b2e7b54160"
 metafile = true
 
 [[files]]
