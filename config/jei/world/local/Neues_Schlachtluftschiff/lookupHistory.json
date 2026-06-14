@@ -1,8 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"minecraft:netherrack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:cinder_flour"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:blaze_cake_base"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:blaze_cake"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"aeronautics:levitite"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
