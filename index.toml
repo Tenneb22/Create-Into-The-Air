@@ -303,6 +303,11 @@ hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
+metafile = true
+
+[[files]]
 file = "mods/resource-gamma-utils.pw.toml"
 hash = "0b06e7b4794e5ef2115d6580a5412a8f1d9e065e9f13683cb955aa0ccc5d142b"
 metafile = true
