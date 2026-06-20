@@ -9,6 +9,14 @@ file = "config/createbigcannons-server.toml"
 hash = "053b3fc7c4c005e47779cb580de356c0c9f44abb3f9c519b84462cdb923c66ba"
 
 [[files]]
+file = "config/thebrokenscript/client.toml"
+hash = "8e67ffcddac14977e0c3dde3ecc2683d78a0c3d9f7de1b674bce7107cf6b4a1b"
+
+[[files]]
+file = "config/thebrokenscript/common.toml"
+hash = "f17e7f439fa5d804ff76daa28c7f057f88076ba4ed062f6e36ad1a800f38e0ce"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -248,6 +256,16 @@ hash = "7f81ca0ff304d78545a5961599574b0260b498b90a69e13b7770550e693eb905"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
 file = "mods/hypertube.pw.toml"
 hash = "83552a504c2a4febadbc9873a18327a884f2bb1568d6aa786551776afe393e88"
 metafile = true
@@ -375,6 +393,16 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
+metafile = true
+
+[[files]]
+file = "mods/the-broken-script.pw.toml"
+hash = "7bfb9d1b41925bbbd25023ab9266c4bcce267c10a90eb41136d88722f81bc533"
+metafile = true
+
+[[files]]
+file = "mods/veil.pw.toml"
+hash = "aa3b19752dc5e1f268c70809946514d960917f64f4fac80617162bb6c2c98835"
 metafile = true
 
 [[files]]

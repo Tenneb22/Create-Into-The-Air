@@ -1,0 +1,134 @@
+# Don't change this! Version used to track needed updates.
+version = 2
+# Disable getting banned from your world.
+disableBanning = true
+# Disable null's block breaking ability.
+disableBlockBreaking = false
+# Disable random jumpscares.
+disableRandomJumpscares = false
+# Disable spawning mobs from newer Minecraft versions.
+disableNewMobSpawning = false
+
+# Events configuration.
+
+[events]
+# Enable random events.
+enableRandomEvents = true
+# The number of events per day, on average.
+averageEventsPerDay = 3
+# A list of events that can be enabled or disabled.
+enabledEvents = [
+    "thebrokenscript:place_water",
+    "thebrokenscript:shadow_bug",
+    "thebrokenscript:set_time",
+    "thebrokenscript:reset_rotation",
+    "thebrokenscript:paranoia",
+    "thebrokenscript:breathe",
+    "thebrokenscript:eyes",
+    "thebrokenscript:hungry",
+    "thebrokenscript:set_do_daylight_cycle",
+    "thebrokenscript:noop",
+    "thebrokenscript:can_someone_hear_me",
+    "thebrokenscript:false_villager",
+    "thebrokenscript:close_menu",
+    "thebrokenscript:place_redstone_torch",
+    "thebrokenscript:null_scare",
+    "thebrokenscript:damage",
+    "thebrokenscript:heartbeat",
+    "thebrokenscript:set_on_fire",
+    "thebrokenscript:play_sound",
+    "thebrokenscript:title_event",
+    "thebrokenscript:bsod",
+    "thebrokenscript:null_particle",
+    "thebrokenscript:look_and_damage",
+    "thebrokenscript:place_oak_sign",
+    "thebrokenscript:explode_base",
+    "thebrokenscript:place_hello",
+    "thebrokenscript:wrong_overlay",
+    "thebrokenscript:madness_1",
+    "thebrokenscript:keep_playing",
+    "thebrokenscript:null_interface_trigger",
+    "thebrokenscript:lava_cast",
+    "thebrokenscript:place_all_dead",
+    "thebrokenscript:toggle_vhs",
+    "thebrokenscript:null_invade_base",
+    "thebrokenscript:obfuscated_sign",
+    "thebrokenscript:opengl_error",
+    "thebrokenscript:place_netherrack",
+    "thebrokenscript:strike_lightning",
+    "thebrokenscript:place_flowing_water",
+    "thebrokenscript:aberration",
+    "thebrokenscript:push",
+    "thebrokenscript:set_random_time_of_day",
+    "thebrokenscript:place_empty",
+    "thebrokenscript:place_cave_air",
+    "thebrokenscript:why_cant_you_leave",
+    "thebrokenscript:text",
+    "thebrokenscript:random_song",
+    "thebrokenscript:nulled_gui",
+    "thebrokenscript:nullnullnull_advancement",
+    "thebrokenscript:moon_phase",
+    "thebrokenscript:null_book",
+    "thebrokenscript:giift",
+    "thebrokenscript:give_disc_11",
+    "thebrokenscript:experience",
+    "thebrokenscript:moon_glitch",
+    "thebrokenscript:doors",
+    "thebrokenscript:jframe_5",
+    "thebrokenscript:place_lava",
+    "thebrokenscript:null_title",
+    "thebrokenscript:place_bedrock"
+]
+
+# World configuration.
+
+[world]
+# Remove deepslate.
+removeDeepslate = false
+# Enable spawning void holes.
+enableVoidHoles = false
+# Enable removing chunks.
+enableChunkRemoval = false
+# Disable world eating functionality.
+disableWorldEater = true
+# Disable random structure spawning.
+disableRandomStructures = true
+
+# Chat configuration.
+
+[chat]
+# Enable the chat responses system.
+enableChatResponses = true
+# A list of chat responses that can be enabled or disabled.
+enabledChatResponses = [
+    "thebrokenscript:circuit",
+    "thebrokenscript:can_you_see_me",
+    "thebrokenscript:fuck_you",
+    "thebrokenscript:herobrine",
+    "thebrokenscript:the_broken_end",
+    "thebrokenscript:void",
+    "thebrokenscript:integrity",
+    "thebrokenscript:ram2die",
+    "thebrokenscript:follow",
+    "thebrokenscript:how_can_i_help_you",
+    "thebrokenscript:who_are_you",
+    "thebrokenscript:null",
+    "thebrokenscript:niw",
+    "thebrokenscript:entity_303",
+    "thebrokenscript:clan_build",
+    "thebrokenscript:friend",
+    "thebrokenscript:hello",
+    "thebrokenscript:what_do_you_want",
+    "thebrokenscript:steve",
+    "thebrokenscript:revuxor"
+]
+
+# DANGER! THIS BREAKS THE INTENDED EXPERIENCE OF THE MOD! ONLY DO THIS IF YOU KNOW WHAT YOU ARE DOING.
+
+[danger]
+# Enable cheats.
+enableCheats = false
+# Disable the attack cooldown, restoring pre-1.9 attack behavior.
+disableAttackCooldown = false
+# Disable TBS random entity spawning. Note that this does not apply to naturally spawned entities.
+disableSpawningEntities = false

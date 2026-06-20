@@ -1,0 +1,20 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+# Disable intentional feature-related crashes built-in to the mod.
+disableCrashes = false
+# Enable the VHS overlay.
+enableVhsOverlay = false
+# Let Circuit shake your game window.
+enableWindowShake = true
+# Enable the chromatic aberration effect.
+enableAberration = true
+# Enable the low render distance effects.
+enableMoonGlitchEffects = true
+# Control how the mod will modify the main menu.
+mainMenuMode = "VANILLA"
+# Let the mod create a file on your desktop.
+enableFileCreation = true
+# Enable the custom main menu music.
+enableMenuMusic = false
+# Enable the void fog.
+enableVoidFog = true
